@@ -1,4 +1,4 @@
-Hello and welcome to the Matex project. Matex aims to add the functionality to latex,
+Hello and welcome to the Matex project. Matex aims to add functionality to latex,
 such as math calculations. It works by using Mathomatic, llpp (Will later work
 for most pdfviewers), and the latex suite. It exacts the data from a latex file
 .tex and passes the extracted data through mathomatic, returns the answer and
