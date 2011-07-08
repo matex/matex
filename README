@@ -5,6 +5,4 @@ for most pdfviewers), and the latex suite. It exacts the data from a latex file
 converts that back to the latex format and append the string with the result.
 
 Matex aims also add gnuplot plot graphs, to have mathematical functionality to
-compute results without ever leaving the latex suite. So if your doing your
-thesis in latex matex is a good alternative to mathematica or mathlab, as the
-user will never have to leave the latex environment! 
+compute results without ever leaving the latex suite.
